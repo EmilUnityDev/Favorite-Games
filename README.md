@@ -5,4 +5,4 @@ tic-tac-toe - [Click here](https://github.com/user-attachments/assets/b56aec74-1
 
 Labyrinth game - [Click here](https://github.com/user-attachments/assets/68d46260-015d-465e-b4b8-43169e6e0b09)
 
-Project is currently in active development.
+Project is currently in development.
